@@ -47,10 +47,10 @@ pip install -r requirements.txt
 
 ## Équipe
 
-- Membre 1
-- Membre 2
-- Membre 3
-- Membre 4
+- Alexis VO
+- Gueran DEWELL
+- Thomas PRICE
+- Sergio NOBIME
 
 ## Statut
 
