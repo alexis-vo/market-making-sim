@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## Équipe
 
 - Alexis VO
-- Gueran DEWELL
+- Guerand DEWELL
 - Thomas PRICE
 - Sergio NOBIME
 
