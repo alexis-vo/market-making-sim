@@ -51,6 +51,7 @@ pip install -r requirements.txt
 - Guerand DEWELL
 - Thomas PRICE
 - Sergio NOBIME
+- Etienne LEFRANC
 
 ## Statut
 
